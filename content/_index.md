@@ -1,5 +1,5 @@
 ---
-title: "About Jeriakn"
+title: "Jeriakn"
 profileImage: "avatar.png"
 name: "Jeri Akino ／ 秋野ジェリ"
 description: "Computer nerd | Hoshiyomi | EN/日/中"
