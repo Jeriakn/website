@@ -1,7 +1,6 @@
 baseURL = 'https://akn.yt/'
 languageCode = 'en-us'
 title = 'Jeriakn'
-theme = 'LucentLink-Hugo'
 publishDir = "public"
 
 [params]
