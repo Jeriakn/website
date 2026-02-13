@@ -9,3 +9,7 @@ publishDir = "public"
 
 [outputs]
   home = ["HTML"]
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
