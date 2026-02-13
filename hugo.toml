@@ -1,0 +1,10 @@
+baseURL = 'https://akn.yt/'
+languageCode = 'en-us'
+title = 'About Jeriakn'
+theme = 'LucentLink-Hugo'
+
+[params]
+  description = ""
+
+[outputs]
+  home = ["HTML"]
