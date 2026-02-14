@@ -1,11 +1,18 @@
 {{/* layouts/partials/profile.html */}}
 <div class="flex flex-col items-center mb-8">
-    {{ with .Params.profileImage }}
+    {{ with .Params.avatar }}
       {{/* strip leading “/” if present, otherwise leave as-is */}}
-      {{ $img := replaceRE "^/" "" . }}
-      <img src="{{ $img }}"
-           alt="{{ $.Params.name }}"
-           class="profile-pic mb-4">
+      {{ $ls1 := sub (len .) 1 }}
+      {{ $img := replaceRE "^/" "" (index . $ls1) }}
+      <picture>
+        {{ range first $ls1 . }}
+          {{ $img := replaceRE "^/" "" . }}
+          <source srcset="{{ $img }}" /> 
+        {{ end }}
+        <img src="{{ $img }}"
+             alt=""
+             class="profile-pic mb-4">
+      </picture>
     {{ end }}
     <h1 class="text-3xl font-bold mb-2 text-center" style="color: var(--text-color)">
       {{ .Params.name }}
