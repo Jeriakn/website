@@ -1,36 +1,47 @@
 ---
 title: "Jeriakn"
-profileImage: "avatar.png"
+avatar: 
+  - "avatar.webp"
+  - "avatar.png"
 name: "Jeri Akino ／ 秋野ジェリ"
 description: "Computer nerd | Hoshiyomi | EN/日/中"
-# socials:
-#   - url: "https://twitter.com/jeriakn"
-#     icon: "fab fa-twitter"
-# messaging:
-#   title: "Messaging Etiquette"
-#   items:
-#     - icon: "fas fa-check-circle"
-#       color: "text-green-400"
-#       text: "Your guideline here."
-# about:
-#   title: "About Me"
-#   sections:
-#     - heading: "Professional Background"
-#       content: "Your background text."
+socials:
+  - url: "https://twitch.tv/jeriakn"
+    icon: "fab fa-twitch"
+  - url: "https://twitter.com/jeriakn"
+    icon: "fab fa-twitter"
+about:
+  title: "Hello, I'm Jeri"
+  sections:
+    - heading: "I know about computers"
+      content: "Sometimes I write papers about them too."
+    - heading: "I stream sometimes"
+      content: "Generally doing random things."
+    - heading: "I usually speak English"
+      content: "I can also speak Japanese and Mandarin."
 links:
+  - href: "mailto:j@akn.yt"
+    icon: "fas fa-envelope"
+    title: "E-mail"
+    description: "j@akn.yt"
   - href: "https://twitch.com/jeriakn"
     icon: "fab fa-twitch"
     title: "Twitch"
+    description: "@jeriakn"
   - href: "https://youtube.com/@jeriakn"
     icon: "fab fa-youtube"
     title: "YouTube"
+    description: "@jeriakn"
   - href: "https://twitter.com/jeriakn"
     icon: "fab fa-twitter"
     title: "Twitter"
+    description: "@jeriakn"
   - href: "https://bsky.app/profile/jeriakn.com"
     icon: "fab fa-bluesky"
     title: "Bluesky"
+    description: "@jeriakn.com"
   - href: "https://github.com/jeriakn"
     icon: "fab fa-github"
     title: "GitHub"
+    description: "@jeriakn"
 ---
