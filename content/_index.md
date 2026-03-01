@@ -3,7 +3,7 @@ title: "Jeriakn"
 avatar: 
   - "avatar.webp"
   - "avatar.png"
-name: "Jeri Akino ／ 秋野ジェリ"
+name: "Jerry Akino ／ 秋野ぜり"
 description: "Computer nerd | Hoshiyomi | EN/日/中"
 socials:
   - url: "https://twitch.tv/jeriakn"
@@ -11,7 +11,7 @@ socials:
   - url: "https://twitter.com/jeriakn"
     icon: "fab fa-twitter"
 about:
-  title: "Hello, I'm Jeri"
+  title: "Hello, I'm Jerry"
   sections:
     - heading: "I know about computers"
       content: "Sometimes I write papers about them too."
