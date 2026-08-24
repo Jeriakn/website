@@ -1,8 +1,8 @@
 ---
 title: "Jeriakn"
-avatar: 
-  - "avatar.webp"
-  - "avatar.png"
+avatar:
+  - "images/avatar.webp"
+  - "images/avatar.png"
 name: "Jerry Akino ／ 秋野ぜり"
 description: "Computer nerd | Hoshiyomi | EN/日/中"
 socials:
