@@ -20,10 +20,10 @@ about:
     - heading: "I usually speak English"
       content: "But I can also speak Japanese and Mandarin"
 links:
-  - href: "mailto:j@akn.yt"
+  - href: "mailto:jeri@akn.yt"
     icon: "fas fa-envelope"
     title: "E-mail"
-    description: "j@akn.yt"
+    description: "jeri@akn.yt"
   - href: "https://twitch.com/jeriakn"
     icon: "fab fa-twitch"
     title: "Twitch"
