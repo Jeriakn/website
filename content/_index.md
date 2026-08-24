@@ -11,7 +11,7 @@ socials:
   - url: "https://twitter.com/jeriakn"
     icon: "fab fa-twitter"
 about:
-  title: "Hello, I'm Jeri"
+  title: "Hello, I'm Jeri (/dʒɛri/)"
   sections:
     - heading: "I like learning about computers"
       content: "Sometimes I write papers about them too"
